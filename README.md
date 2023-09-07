@@ -1,8 +1,7 @@
 # Hi, I'm  <a href="https://www.linkedin.com/in/mohammad-alabed">Mohammad Alabed  </a> ! 👋
 
-<figure class="video_container">
-  <iframe src="[https://www.youtube.com/embed/enMumwvLAug](https://lottie.host/e221e724-653e-433c-ac33-a790b063559b/RnX7QLh1Ll.lottie)" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Watch the video](https://lottie.host/e221e724-653e-433c-ac33-a790b063559b/RnX7QLh1Ll.lottie)
+
 <img src="https://media.licdn.com/dms/image/D4E16AQERM1Zadwm8Fg/profile-displaybackgroundimage-shrink_350_1400/0/1694022431271?e=1699488000&v=beta&t=j853eWe03wqVWU0pY6L21pVuZ8Uq2A_ra0HLoZGNrgE" />
 
 
